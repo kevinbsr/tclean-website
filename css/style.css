@@ -74,6 +74,12 @@ a {
     padding: 10px;
 }
 
+#navbar-items li:hover {
+    color: #00494d;
+    border-radius: 5px;
+    transition: all 500ms ease-in-out; 
+}
+
 /* Showcase */
 
 #showcase {
