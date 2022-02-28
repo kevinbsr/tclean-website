@@ -85,8 +85,8 @@ a {
     background: url(/img/showcase.jpg) no-repeat center center/cover;
 
     /* Overlay */
-    background-color: rgb(0, 0, 0, 0.5);
-    background-blend-mode: color;
+    /* background-color: rgb(0, 0, 0, 0.5);
+    background-blend-mode: color; */
 }
 
 #showcase-container {
